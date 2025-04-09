@@ -1,6 +1,5 @@
 # BBD detection exercise
 
-- Example
 ![Image](images/sample.png)
 
 Following are the documents pertaining my evaulation of the exercise with BDD dataset
