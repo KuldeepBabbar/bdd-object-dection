@@ -24,7 +24,7 @@ This is the image of the docker container. Please mount the image into a contain
 docker pull ghcr.io/kuldeepbabbar/data_app:latest
 docker run -it --v /path/to/bdd/extracted/dir:/data --name data_container data_app
 ```
-replace `/path/to/bdd/extracted/dir` with appropriate path. 
+replace `/path/to/bdd/extracted/dir` with appropriate path to the extracted BDD dataset.
 
 Once container is loaded, run the following
 ```bash
