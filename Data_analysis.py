@@ -136,7 +136,7 @@ def compare_train_val_distributions(train_df, val_df):
 
 def main():
     master_dir = os.path.join(
-        "/nfs/interns/kuldeepk/Assignment/",
+        "/data/",
         "bdd100k_labels_release",
         "bdd100k/labels/",
     )

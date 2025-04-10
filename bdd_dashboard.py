@@ -57,7 +57,7 @@ st.pyplot(fig)
 # --- Image Viewer ---
 st.header("Image Viewer with Bounding Boxes")
 master_dir = os.path.join(
-    "/nfs/interns/kuldeepk/Assignment/",
+    "/data/",
     "bdd100k_images_100k/bdd100k/images/100k/",
 )
 image_dir = (
